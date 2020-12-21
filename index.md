@@ -1,10 +1,7 @@
 ## Shawn chen's personal website
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Shawn chen's personal website
 
 
@@ -31,10 +28,3 @@ ACTIVITIES
 Vice President, Student Accountancy Chapter, 2009-2008
 Team Leader, Student Tennis Team, 2008-2006
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qwert880620/self12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
