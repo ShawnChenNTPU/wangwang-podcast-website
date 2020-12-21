@@ -1,32 +1,35 @@
 ## Shawn chen's personal website
 
-You can use the [editor on GitHub](https://github.com/qwert880620/self12/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Shawn chen's personal website
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ADDRESS: No.195-4, Sec. 2, Roosevelt Rd., Zhongzheng District, Taipei City 100,
+PHONE: (02)2364-1234 MOBILE: 0931-372-737
+DATE OF BIRTH：1984.02.03 AGE: 22    SEX: F
+EMAIL: smchanchan@yahoo.com.tw
 
-1. Numbered
-2. List
+JOB OBJECTIVE：Report
+EDUCATIONAL BACKGROUND
+09/2005 to 06/2009 University of Soochow University Bachelor of History
+09/2002 to 07/2005 Nei Hu Senior High School
 
-**Bold** and _Italic_ and `Code` text
+SUMMARY
+I am a Positive attitude and efficient person, and my specialties are writing and analysis the data. I am willing to develop career in mass media industry.
+SKILLS
+MS Words, Excel, Powerpoint, Internet
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+WORKING EXPERIENCE
+06/2009to 08/2008 Ming Pao Holdings Ltd. Summer intern
+Assist Chief Editor in news research, translation and proof reading
+09/2007 to 06/2006 N.Y. Bagel Café Waitress
+ACTIVITIES
+Vice President, Student Accountancy Chapter, 2009-2008
+Team Leader, Student Tennis Team, 2008-2006
 
 ### Jekyll Themes
 
