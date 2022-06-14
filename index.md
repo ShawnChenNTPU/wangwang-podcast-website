@@ -1,4 +1,14 @@
 ## 萬萬沒想Doubt 全球唯一官網
+尋求平常周遭都在用的生活物品，但是完全不會去想為什麼它會被發明出來的物品的歷史
+由兩位主持人萬萬&阿道共同為您演出：）
+
+縮圖使用 "紅色問號 icon" 取自 Question icons created by Freepik - Flaticon
+https://www.flaticon.com/free-icons/question
+片頭背景音樂 取自 Happy Background Music created by Migfus20 - Freesound.org
+https://freesound.org/people/Migfus20/sounds/560446/    
+
+
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/23vQVEB26f5uLmkblMQ3z5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Hnr3dJbnsFoKHlpoIh8DN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
